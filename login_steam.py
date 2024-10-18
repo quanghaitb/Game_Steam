@@ -8,7 +8,7 @@ import time
 import threading
 from selenium.common.exceptions import NoSuchElementException
 
-increment_id = 68
+increment_id = 0
 driver = webdriver.Chrome()
 
 
